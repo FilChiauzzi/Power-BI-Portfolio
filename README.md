@@ -10,7 +10,7 @@ Hi everyone! Welcome to my **Power BI portfolio**. Here I’ll be sharing **busi
 ---
 
 ## 🔥 Workflow
-Raw data → Cleaning (Power Query / SQL) → Modelling (DAX) → Visualization (Power BI)
+Raw data → Cleaning (SQL / Power Query) → Modelling (DAX) → Visualization (Power BI)
 
 ---
 
